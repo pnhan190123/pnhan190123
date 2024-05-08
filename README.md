@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bùi Hoàng Trí Nghĩa</h1>
+<h1 align="center">Hi 👋, I'm Phạm Thành Nhân</h1>
 
 <p align="center"><img src="https://camo.githubusercontent.com/400ac473bf4f9db692e2ac202997337b42debc7dbe41be42ced66a554aa2d0f6/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d73746f726d7368796e267468656d653d6769746875625f6461726b" alt="" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stormshyn&rank=SSS;theme=github_dark" style="max-width:100%;"></p>
 
